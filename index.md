@@ -4,11 +4,11 @@
 
 ### End to End Transcriptomics Analysis 
 
-[Single-cell Transcriptome Data Analysis](/sample_page)
+[Single-cell Transcriptome Data Analysis](/pdf/scRNA_WGCNA.pdf)
 <img src="images/single_cell.jpg?raw=true"/>
 
 ---
-[Bulk-RNA Transcriptome Data Analysis](/pdf/sample_presentation.pdf)
+[Bulk-RNA Transcriptome Data Analysis](/sample_page)
 <img src="images/bulk_RNA.jpg?raw=true"/>
 
 ---
