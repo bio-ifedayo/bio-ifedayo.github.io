@@ -5,11 +5,11 @@
 ### End to End Transcriptomics Analysis 
 
 [Single-cell Transcriptome Data Analysis](/sample_page)
-<img src="images/single_cell.png?raw=true"/>
+<img src="images/single_cell.jpg?raw=true"/>
 
 ---
 [Bulk-RNA Transcriptome Data Analysis](/pdf/sample_presentation.pdf)
-<img src="images/bulk_RNA.png?raw=true"/>
+<img src="images/bulk_RNA.jpg?raw=true"/>
 
 ---
 [Biomarker Identification with deep learning](http://example.com/)
